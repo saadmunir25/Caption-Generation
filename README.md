@@ -6,7 +6,7 @@ This project, titled "Caption-Generation", implements an image captioning system
 
 - `Caption_Generation_English.ipynb`: Jupyter notebook containing the code for the English caption generation model.
 - `Caption_Generation_Urdu.ipynb`: Jupyter notebook containing the code for the Urdu caption generation model.
-- `data.txt`: File containing the links of both English and Urdu datasets.
+- `Data`: File containing the links of both English and Urdu datasets.
 
 ## Setup and Installation
 
